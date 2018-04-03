@@ -1,5 +1,6 @@
-package com.github.xbynet.ioc;
+package com.github.xbynet.ioc.impl;
 
+import com.github.xbynet.ioc.DependencyService;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.BeanFactoryAware;

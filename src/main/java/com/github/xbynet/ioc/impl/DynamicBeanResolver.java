@@ -1,5 +1,6 @@
-package com.github.xbynet.ioc;
+package com.github.xbynet.ioc.impl;
 
+import com.github.xbynet.ioc.DependencyService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
